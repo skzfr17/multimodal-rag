@@ -26,8 +26,7 @@ MULTIMODAL-RAG/
 ├── requirements.txt
 ├── streamlit_app.py
 └── README.md
-
-
+```
 ## Instalasi
 
 1. Clone repository
